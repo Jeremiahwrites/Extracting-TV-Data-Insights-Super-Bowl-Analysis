@@ -211,7 +211,7 @@ Possible extensions include:
 │   ├── tv.csv
 │   └── halftime_musicians.csv
 │
-├── notebook.ipynb
+├── notebook.py
 ├── README.md
 ```
 
